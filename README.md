@@ -234,3 +234,4 @@ If traffic grows beyond what a single process should carry:
 | `npm run seed` | Insert demo data (skips if data already exists) |
 | `npm run reset` | Wipe and re-seed demo data |
 # ChurchPortal
+# ChurchPortal
